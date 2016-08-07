@@ -14,7 +14,7 @@
     - [格式](#formatting)
     - [註解](#comments)
     - [OOCSS 和 BEM](#oocss-and-bem)
-    - [ID 選擇氣](#id-selectors)
+    - [ID 選擇器](#id-selectors)
     - [JavaScript 掛鉤](#javascript-hooks)
     - [邊框](#border)
   1. [Sass](#sass)

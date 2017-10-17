@@ -132,7 +132,7 @@
 
 **OOCSS**，也就是 “Object Oriented CSS（物件導向的CSS）”，是一種寫 CSS 的方法，中心哲學就是鼓勵你把樣式表看成“物件”的集合：利用擁有可重用、可重組特性的程式碼，使你可以在整個網站中多次使用。
 
-参考资料：
+参考資料：
 
   * Nicole Sullivan 的 [OOCSS wiki](https://github.com/stubbornella/oocss/wiki)
   * Smashing Magazine 的 [Introduction to OOCSS](http://www.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/)
